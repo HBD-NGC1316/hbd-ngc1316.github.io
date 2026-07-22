@@ -17,7 +17,9 @@ description: "Hyejin Park studies grounded and trustworthy AI, with a current fo
 
 # Hyejin Park {.home-name .unnumbered .unlisted}
 
-<p class="home-lead">I study <strong>grounded and trustworthy AI</strong>, with a current focus on multimodal concept learning and object–action understanding.</p>
+<p class="profile-tagline">
+Grounded & Trustworthy AI · Multimodal Concept Learning
+</p>
 
 :::
 
@@ -37,6 +39,18 @@ and the
 
 Before joining RPI, I worked on knowledge retrieval, recommendation systems,
 and applied AI research in South Korea.
+
+::: {.research-focus}
+
+### Current Research Focus {.focus-label .unnumbered .unlisted}
+
+I study grounded and trustworthy AI, focusing on how intelligent systems form
+and refine concepts from language, vision, and interaction. My current work
+examines multimodal concept learning and object–action understanding,
+especially how models interpret unfamiliar situations without relying only on
+familiar labels or conventional object functions.
+
+:::
 
 ::: {.hero-actions}
 

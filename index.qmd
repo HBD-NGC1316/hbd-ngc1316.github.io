@@ -1,5 +1,6 @@
 ---
-title: "Hye-Jin Park"
+title: "Hyejin Park"
+pagetitle: "Hye-Jin Park | Academic Website"
 subtitle: "Ph.D. Student in Computer Science at Rensselaer Polytechnic Institute"
 ---
 

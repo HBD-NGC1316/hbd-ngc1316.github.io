@@ -1,0 +1,18 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Hyejin Park"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+
+  page-footer:
+    center: "© 2026 Hyejin Park"
+
+format:
+  html:
+    theme: cosmo
+    toc: false

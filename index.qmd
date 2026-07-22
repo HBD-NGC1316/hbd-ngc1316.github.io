@@ -1,0 +1,16 @@
+---
+title: "Hye-Jin Park"
+subtitle: "Ph.D. Student in Computer Science at Rensselaer Polytechnic Institute"
+---
+
+Welcome to my website.
+
+## About Me
+
+I am a Ph.D. student in Computer Science at Rensselaer Polytechnic Institute.
+
+My research interests include multimodal AI, visual and physical reasoning, affordance understanding, and knowledge representation.
+
+## Contact
+
+Email: parkh12@rpi.edu

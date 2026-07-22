@@ -1,0 +1,457 @@
+/* =========================================================
+   Hyejin Park Personal Website
+   ========================================================= */
+
+   :root {
+    --hp-burgundy: #7f1834;
+    --hp-burgundy-dark: #5f1026;
+    --hp-ink: #25252a;
+    --hp-muted: #6f6d73;
+    --hp-line: #e6e1e2;
+    --hp-paper: #fffdfb;
+    --hp-soft: #f7f2f2;
+    --hp-white: #ffffff;
+    --hp-radius: 18px;
+  }
+  
+  html {
+    scroll-behavior: smooth;
+  }
+  
+  body {
+    color: var(--hp-ink);
+    background: var(--hp-paper);
+    font-family:
+      Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI",
+      sans-serif;
+    font-size: 1.02rem;
+    line-height: 1.72;
+  }
+  
+  h1,
+  h2,
+  h3 {
+    color: var(--hp-ink);
+    letter-spacing: -0.025em;
+  }
+  
+  h1,
+  h2 {
+    font-family: Georgia, "Times New Roman", serif;
+  }
+  
+  h2 {
+    margin-top: 4.5rem;
+    padding-top: 0.5rem;
+    border-bottom: 0;
+    font-size: clamp(1.8rem, 3vw, 2.45rem);
+  }
+  
+  h3 {
+    font-size: 1.22rem;
+    line-height: 1.35;
+  }
+  
+  p {
+    max-width: 72ch;
+  }
+  
+  a {
+    color: var(--hp-burgundy);
+    text-decoration-thickness: 1px;
+    text-underline-offset: 3px;
+  }
+  
+  a:hover {
+    color: var(--hp-burgundy-dark);
+  }
+  
+  /* ---------- Navbar ---------- */
+  
+  .navbar {
+    background: rgba(255, 253, 251, 0.94) !important;
+    backdrop-filter: blur(14px);
+    border-bottom: 1px solid var(--hp-line);
+    box-shadow: none;
+  }
+  
+  .navbar-brand,
+  .navbar-title {
+    color: var(--hp-ink) !important;
+    font-family: Georgia, "Times New Roman", serif;
+    font-weight: 700;
+  }
+  
+  .navbar-nav .nav-link {
+    color: #4b474b !important;
+    font-weight: 520;
+  }
+  
+  .navbar-nav .nav-link:hover,
+  .navbar-nav .nav-link.active {
+    color: var(--hp-burgundy) !important;
+  }
+  
+  /* ---------- Right table of contents ---------- */
+  
+  #TOC {
+    padding-left: 1rem;
+    border-left: 1px solid var(--hp-line);
+  }
+  
+  #TOC .active {
+    color: var(--hp-burgundy) !important;
+    font-weight: 650;
+  }
+  
+  #toc-title {
+    color: var(--hp-muted);
+    font-size: 0.72rem;
+    font-weight: 750;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+  }
+  
+  /* =========================================================
+     Profile introduction
+     ========================================================= */
+  
+  .profile-top {
+    display: grid;
+    grid-template-columns: 150px minmax(0, 1fr);
+    gap: 2rem;
+    align-items: center;
+  
+    max-width: 900px;
+    margin: 2rem 0 1.5rem;
+  }
+  
+  .profile-photo-col,
+  .profile-photo-col figure {
+    margin: 0;
+  }
+  
+  .profile-photo-col figcaption {
+    display: none;
+  }
+  
+  .profile-photo-col img {
+    display: block;
+    width: 150px !important;
+    height: 150px !important;
+    max-width: none !important;
+  
+    object-fit: cover;
+    object-position: center 20%;
+  
+    border: 4px solid var(--hp-white);
+    border-radius: 50%;
+  
+    box-shadow: 0 10px 28px rgba(55, 34, 42, 0.14);
+  }
+  
+  .profile-heading {
+    min-width: 0;
+  }
+  
+  .eyebrow,
+  .card-label,
+  .pub-venue {
+    margin: 0 0 0.65rem;
+    color: var(--hp-burgundy);
+    font-size: 0.72rem;
+    font-weight: 800;
+    letter-spacing: 0.11em;
+    text-transform: uppercase;
+  }
+  
+  .home-name {
+    margin: 0 0 0.7rem;
+    color: var(--hp-ink);
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: clamp(2.8rem, 5vw, 4.2rem);
+    line-height: 0.98;
+    letter-spacing: -0.04em;
+  }
+  
+  .home-lead {
+    max-width: 680px;
+    margin: 0;
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: clamp(1.18rem, 2vw, 1.45rem);
+    line-height: 1.5;
+  }
+  
+  .profile-bio {
+    max-width: 780px;
+    margin-bottom: 4rem;
+    padding-bottom: 3.2rem;
+    border-bottom: 1px solid var(--hp-line);
+  }
+  
+  .profile-bio > p {
+    max-width: 720px;
+    margin: 0 0 1rem;
+    color: var(--hp-muted);
+    line-height: 1.7;
+  }
+  
+  /* ---------- Buttons ---------- */
+  
+  .hero-actions,
+  .publication-actions {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.75rem;
+    margin-top: 1.5rem;
+  }
+  
+  .hero-actions p,
+  .quick-links p {
+    margin: 0;
+    max-width: none;
+  }
+  
+  .button {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+  
+    min-height: 44px;
+    padding: 0.7rem 1.05rem;
+  
+    border-radius: 999px;
+  
+    font-size: 0.9rem;
+    font-weight: 700;
+    text-decoration: none;
+  
+    transition:
+      transform 150ms ease,
+      box-shadow 150ms ease,
+      background 150ms ease;
+  }
+  
+  .button:hover {
+    transform: translateY(-1px);
+  }
+  
+  .button-primary {
+    color: white !important;
+    background: var(--hp-burgundy);
+    box-shadow: 0 9px 22px rgba(127, 24, 52, 0.2);
+  }
+  
+  .button-primary:hover {
+    background: var(--hp-burgundy-dark);
+  }
+  
+  .button-secondary {
+    color: var(--hp-ink) !important;
+    background: white;
+    border: 1px solid var(--hp-line);
+  }
+  
+  .quick-links {
+    margin-top: 1.15rem;
+    color: var(--hp-muted);
+    font-size: 0.9rem;
+  }
+  
+  /* =========================================================
+     Shared page components
+     ========================================================= */
+  
+  .section-intro,
+  .page-lead {
+    color: var(--hp-muted);
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 1.18rem;
+    line-height: 1.65;
+  }
+  
+  .page-lead {
+    max-width: 760px;
+    margin-bottom: 3rem;
+  }
+  
+  .card-grid,
+  .publication-grid {
+    display: grid;
+    gap: 1rem;
+    margin-top: 1.5rem;
+  }
+  
+  .card-grid {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+  
+  .publication-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+  
+  .topic-card,
+  .publication-card {
+    padding: 1.5rem;
+    background: var(--hp-white);
+    border: 1px solid var(--hp-line);
+    border-radius: var(--hp-radius);
+    box-shadow: 0 7px 22px rgba(55, 34, 42, 0.035);
+  }
+  
+  .topic-card {
+    display: flex;
+    flex-direction: column;
+    min-height: 255px;
+  }
+  
+  .topic-card p:last-child {
+    margin-top: auto;
+  }
+  
+  .topic-card-current {
+    background: linear-gradient(160deg, #fff 25%, #fbf2f4 100%);
+    border-top: 4px solid var(--hp-burgundy);
+  }
+  
+  .publication-card h3 {
+    margin-top: 0.35rem;
+  }
+  
+  .publication-highlight {
+    border-top: 4px solid var(--hp-burgundy);
+  }
+  
+  .publication-wide {
+    margin: 1.1rem 0;
+  }
+  
+  .pub-note {
+    color: var(--hp-muted);
+    font-size: 0.94rem;
+  }
+  
+  .pub-link {
+    display: inline-block;
+    margin-right: 0.8rem;
+    font-size: 0.88rem;
+    font-weight: 750;
+  }
+  
+  .section-heading-row {
+    display: flex;
+    justify-content: space-between;
+    gap: 2rem;
+    align-items: end;
+  }
+  
+  .text-link {
+    white-space: nowrap;
+    font-weight: 700;
+    text-decoration: none;
+  }
+  
+  /* ---------- Research prose ---------- */
+  
+  main.content > section > p {
+    max-width: 780px;
+  }
+  
+  main.content hr {
+    margin: 3.5rem 0;
+    border: 0;
+    border-top: 1px solid var(--hp-line);
+  }
+  
+  /* ---------- Recent updates ---------- */
+  
+  .updates-list {
+    width: 100%;
+    border-top: 1px solid var(--hp-line);
+  }
+  
+  .update-row {
+    display: grid;
+    grid-template-columns: 110px minmax(0, 1fr);
+    column-gap: 1.5rem;
+    align-items: baseline;
+  
+    width: 100%;
+    padding: 1rem 0;
+  
+    border-bottom: 1px solid var(--hp-line);
+  }
+  
+  .update-date {
+    color: var(--hp-burgundy);
+    font-weight: 750;
+    white-space: nowrap;
+  }
+  
+  .update-text {
+    min-width: 0;
+    color: var(--hp-ink);
+    line-height: 1.55;
+  }
+  
+  /* ---------- Footer ---------- */
+  
+  .nav-footer {
+    margin-top: 5rem;
+    color: var(--hp-muted);
+    background: transparent;
+    border-top: 1px solid var(--hp-line);
+  }
+  
+  /* ---------- Responsive ---------- */
+  
+  @media (max-width: 980px) {
+    .card-grid {
+      grid-template-columns: 1fr;
+    }
+  }
+  
+  @media (max-width: 760px) {
+    body {
+      font-size: 0.98rem;
+    }
+  
+    .profile-top {
+      grid-template-columns: 110px minmax(0, 1fr);
+      gap: 1.25rem;
+      align-items: center;
+    }
+  
+    .profile-photo-col img {
+      width: 110px !important;
+      height: 110px !important;
+    }
+  
+    .home-name {
+      font-size: clamp(2.4rem, 11vw, 3.5rem);
+    }
+  
+    .publication-grid {
+      grid-template-columns: 1fr;
+    }
+  
+    .section-heading-row {
+      display: block;
+    }
+  
+    .update-row {
+      grid-template-columns: 1fr;
+      row-gap: 0.2rem;
+    }
+  }
+  
+  @media (max-width: 520px) {
+    .profile-top {
+      grid-template-columns: 1fr;
+    }
+  
+    .profile-photo-col img {
+      width: 105px !important;
+      height: 105px !important;
+    }
+  }

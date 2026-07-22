@@ -1,0 +1,20 @@
+HYEJIN WEBSITE STARTER
+======================
+
+1. Copy all files and folders into your existing GitHub Pages repository.
+2. Put your chosen CV PDF at:
+   files/Hyejin_Park_CV.pdf
+3. In VS Code terminal, run:
+   quarto preview
+4. When satisfied, stop preview with Control+C and run:
+   quarto render
+5. In GitHub Desktop:
+   Commit to main -> Push origin
+
+Profile photo:
+- The current homepage displays an "HP" placeholder.
+- Later, we can replace it with images/profile.jpg.
+
+Important:
+- Edit only .qmd, _quarto.yml, and styles.css.
+- Do not directly edit files inside docs/.

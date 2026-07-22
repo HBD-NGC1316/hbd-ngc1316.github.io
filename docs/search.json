@@ -1,23 +1,107 @@
 [
   {
+    "objectID": "publications.html#trustworthy-language-generation",
+    "href": "publications.html#trustworthy-language-generation",
+    "title": "Publications",
+    "section": "Trustworthy Language Generation",
+    "text": "Trustworthy Language Generation\n\n\nACL 2026 · MAIN CONFERENCE\n\n\nA Linguistics-Aware LLM Watermarking via Syntactic Predictability\nShinwoo Park, Hyejin Park, Hyeseon An, Yo-Sub Han\nA linguistically grounded approach to adaptive and publicly verifiable LLM watermarking.\nGoogle Scholar\n\n\n\n\nAAAI 2026 · ORAL PRESENTATION\n\n\nWaterMod: Modular Token-Rank Partitioning for Probability-Balanced LLM Watermarking\nShinwoo Park, Hyejin Park, Hyeseon Ahn, Yo-Sub Han\nA probability-aware modular framework for balancing watermark detectability and generation quality.\nGoogle Scholar"
+  },
+  {
+    "objectID": "publications.html#selected-lead-author-work",
+    "href": "publications.html#selected-lead-author-work",
+    "title": "Publications",
+    "section": "Selected Lead-Author Work",
+    "text": "Selected Lead-Author Work\n\n\nJCSE 2024 · CO-FIRST AUTHOR\n\n\nKHG-Aclair: Knowledge Hypergraph-Based Attention with Contrastive Learning for Recommendations\nHyejin Park, Taeyoon Lee, Kyungwon Kim\nA recommendation framework that models higher-order relationships through knowledge hypergraphs and improves representations through contrastive learning.\nCode Google Scholar\n\n\n\n\nJCSE 2024 · FIRST AUTHOR\n\n\nTRIO: An Entity Retrieval Method Using Entity Embedding and Topic Modeling\nHyejin Park, Daecheol Woo, Shinwoo Park, Kyungwon Kim\nAn entity retrieval method that combines term matching, semantic similarity, and topic relatedness to capture query intent from multiple perspectives.\nGoogle Scholar"
+  },
+  {
+    "objectID": "publications.html#earlier-publications",
+    "href": "publications.html#earlier-publications",
+    "title": "Publications",
+    "section": "Earlier Publications",
+    "text": "Earlier Publications\nAdditional publications and conference papers are available on my Google Scholar profile and in my CV."
+  },
+  {
+    "objectID": "research.html#research-vision",
+    "href": "research.html#research-vision",
+    "title": "Research",
+    "section": "Research Vision",
+    "text": "Research Vision\nMy long-term goal is to develop AI systems that can build reliable concepts, reason beyond familiar labels, and adapt their understanding through multimodal evidence and interaction.\nRather than presenting confidential or unpublished implementation details, this page describes my current research through its motivating questions and broader scientific context."
+  },
+  {
+    "objectID": "research.html#grounded-multimodal-reasoning",
+    "href": "research.html#grounded-multimodal-reasoning",
+    "title": "Research",
+    "section": "Grounded Multimodal Reasoning",
+    "text": "Grounded Multimodal Reasoning\n\nCURRENT Ph.D. RESEARCH · ONGOING\n\nHow can an AI system understand what an object may enable in a new situation, rather than simply recalling its conventional category or familiar function?\nMy current research explores how intelligent systems form and refine grounded concepts from multimodal evidence and human interaction. I am particularly interested in object–action understanding: how AI systems interpret plausible interactions in complex and unfamiliar environments.\nThis work investigates broader questions about how perception, language, and interaction contribute to concept formation and generalization.\nThe research is conducted within ARCLIGHT, part of DARPA’s Environment-driven Conceptual Learning program, through a collaboration between Boston Fusion and Rensselaer Polytechnic Institute.\nBecause this work is ongoing, this page focuses on its motivating questions and broader scientific context rather than unpublished implementation details."
+  },
+  {
+    "objectID": "research.html#trustworthy-language-generation",
+    "href": "research.html#trustworthy-language-generation",
+    "title": "Research",
+    "section": "Trustworthy Language Generation",
+    "text": "Trustworthy Language Generation\nAlongside my primary Ph.D. research, I collaborate on methods for identifying AI-generated language while balancing verifiability, robustness, and generation quality.\nThis research includes linguistically informed and probability-aware approaches to LLM watermarking, with an emphasis on reliable detection and broader public verifiability.\nSelected outcomes include papers accepted to ACL 2026 and AAAI 2026.\nView related publications →"
+  },
+  {
+    "objectID": "research.html#structured-knowledge-and-retrieval",
+    "href": "research.html#structured-knowledge-and-retrieval",
+    "title": "Research",
+    "section": "Structured Knowledge and Retrieval",
+    "text": "Structured Knowledge and Retrieval\nMy earlier research examined how structured knowledge and multiple representations can improve information retrieval and recommendation.\nThis work includes knowledge hypergraphs for recommendation, contrastive representation learning, and entity retrieval methods that combine term matching, semantic similarity, and topic evidence.\nView selected lead-author work →"
+  },
+  {
+    "objectID": "index.html#research-overview",
+    "href": "index.html#research-overview",
+    "title": "Hyejin Park",
+    "section": "Research Overview",
+    "text": "Research Overview\n\nMy work spans three connected directions: grounded multimodal reasoning, trustworthy language generation, and structured knowledge.\n\n\n\n\nCURRENT Ph.D. RESEARCH\n\n\nGrounded Multimodal Reasoning\nHow can AI systems form and refine concepts from visual, linguistic, and interactive evidence?\nExplore current research →\n\n\n\n\nCOLLABORATIVE RESEARCH\n\n\nTrustworthy Language Generation\nReliable and publicly verifiable methods for identifying AI-generated language.\nView publications →\n\n\n\n\nFOUNDATIONAL WORK\n\n\nStructured Knowledge and Retrieval\nLearning from complex relationships and multiple representations for retrieval and recommendation.\nView publications →"
+  },
+  {
+    "objectID": "index.html#current-research",
+    "href": "index.html#current-research",
+    "title": "Hyejin Park",
+    "section": "Current Research",
+    "text": "Current Research\n\n\n\nONGOING RESEARCH\n\n\nGrounded Multimodal Reasoning\nMy current research explores how AI systems form and refine grounded concepts from multimodal evidence and human interaction. I am particularly interested in object–action understanding: how intelligent systems interpret plausible interactions in complex and unfamiliar contexts.\nThis work is presented here at a high level while the research is ongoing.\n\nARCLIGHT DARPA ECOLE · Boston Fusion × RPI\n\nRead the research overview →\n\n\n\n\n\nLanguage\n\n\nVision\n\n\nInteraction\n\n\n↓\n\n\nGrounded Concept Learning\n\n\n↓\n\n\nAdaptive Understanding"
+  },
+  {
+    "objectID": "index.html#selected-publications",
+    "href": "index.html#selected-publications",
+    "title": "Hyejin Park",
+    "section": "Selected Publications",
+    "text": "Selected Publications\n\n\n\nRecent conference highlights and selected work I have led.\n\n\n\nView all publications →\n\n\n\n\n\nACL 2026 · MAIN CONFERENCE\n\n\nA Linguistics-Aware LLM Watermarking via Syntactic Predictability\nShinwoo Park, Hyejin Park, Hyeseon An, Yo-Sub Han\n\nCollaborative research in publicly verifiable and linguistically grounded LLM watermarking.\n\nGoogle Scholar\n\n\n\n\nAAAI 2026 · ORAL PRESENTATION\n\n\nWaterMod: Modular Token-Rank Partitioning for Probability-Balanced LLM Watermarking\nShinwoo Park, Hyejin Park, Hyeseon Ahn, Yo-Sub Han\n\nProbability-aware watermarking for robust detection while preserving generation quality.\n\nGoogle Scholar\n\n\n\n\nJCSE 2024 · CO-FIRST AUTHOR\n\n\nKHG-Aclair: Knowledge Hypergraph-Based Attention with Contrastive Learning for Recommendations\nHyejin Park, Taeyoon Lee, Kyungwon Kim\n\nKnowledge hypergraphs and contrastive learning for complex recommendation relationships.\n\nCode\n\n\n\n\nJCSE 2024 · FIRST AUTHOR\n\n\nTRIO: An Entity Retrieval Method Using Entity Embedding and Topic Modeling\nHyejin Park, Daecheol Woo, Shinwoo Park, Kyungwon Kim\n\nA multi-perspective entity retrieval method combining term, semantic, and topic evidence.\n\nGoogle Scholar"
+  },
+  {
+    "objectID": "index.html#recent-updates",
+    "href": "index.html#recent-updates",
+    "title": "Hyejin Park",
+    "section": "Recent Updates",
+    "text": "Recent Updates\n\n\n\nJul 2026\n\n\nPassed the Research Qualifying Examination at RPI.\n\n\n\n\nJul 2026\n\n\nServed as a student volunteer at ACL 2026 in San Diego.\n\n\n\n\nMay 2026\n\n\nOur linguistics-aware LLM watermarking paper was accepted to ACL 2026.\n\n\n\n\nJan 2026\n\n\nPresented WaterMod as an oral paper at AAAI 2026.\n\n\n\n\nNov 2025\n\n\nGave a seminar talk on affordance perception and representation learning at RPI."
+  },
+  {
+    "objectID": "index.html#about",
+    "href": "index.html#about",
+    "title": "Hyejin Park",
+    "section": "About",
+    "text": "About\n\nI am a Ph.D. student in Computer Science at Rensselaer Polytechnic Institute, advised by Prof. Tomek Strzalkowski. I am affiliated with the Language and Cognition Artificial Intelligence Lab and the Tetherless World Constellation.\nBefore joining RPI, I worked on knowledge retrieval, recommendation systems, and applied AI research in South Korea.\nContact: parkh12@rpi.edu"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Hyejin Park",
     "section": "",
-    "text": "Welcome to my website."
+    "text": "Ph.D. Student in Computer Science · RPI\n\n\n\n\nI study grounded and trustworthy AI, with a current focus on multimodal concept learning and object–action understanding."
   },
   {
-    "objectID": "index.html#about-me",
-    "href": "index.html#about-me",
-    "title": "Hyejin Park",
-    "section": "About Me",
-    "text": "About Me\nI am a Ph.D. student in Computer Science at Rensselaer Polytechnic Institute.\nMy research interests include multimodal AI, visual and physical reasoning, affordance understanding, and knowledge representation."
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "I study how structure in the world, language, and knowledge can help AI systems reason more reliably."
   },
   {
-    "objectID": "index.html#contact",
-    "href": "index.html#contact",
-    "title": "Hyejin Park",
-    "section": "Contact",
-    "text": "Contact\nEmail: parkh12@rpi.edu"
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Selected publications across trustworthy language generation, structured knowledge, retrieval, and recommendation."
   }
 ]

@@ -1,17 +1,200 @@
 ---
-title: "Hyejin Park"
 pagetitle: "Hyejin Park | Personal Website"
-subtitle: "Ph.D. Student in Computer Science at Rensselaer Polytechnic Institute"
+description: "Hyejin Park studies grounded and trustworthy AI, with a current focus on multimodal concept learning and object–action understanding."
 ---
 
-Welcome to my website.
+:::: {.profile-top}
 
-## About Me
+::: {.profile-photo-col}
 
-I am a Ph.D. student in Computer Science at Rensselaer Polytechnic Institute.
+![](images/profile.jpg){.profile-photo}
 
-My research interests include multimodal AI, visual and physical reasoning, affordance understanding, and knowledge representation.
+:::
 
-## Contact
+::: {.profile-heading}
 
-Email: parkh12@rpi.edu
+<p class="eyebrow">Ph.D. Student in Computer Science · RPI</p>
+
+# Hyejin Park {.home-name .unnumbered .unlisted}
+
+<p class="home-lead">I study <strong>grounded and trustworthy AI</strong>, with a current focus on multimodal concept learning and object–action understanding.</p>
+
+:::
+
+::::
+
+:::: {.profile-bio}
+
+My research asks how intelligent systems can form reliable concepts from
+language, vision, and interaction—especially in unfamiliar situations.
+
+I am a Ph.D. student in Computer Science at
+[Rensselaer Polytechnic Institute](https://www.rpi.edu/), advised by
+Prof. Tomek Strzalkowski. I am affiliated with the
+[Language and Cognition Artificial Intelligence Lab](https://lacailab.cogsci.rpi.edu/people/students)
+and the
+[Tetherless World Constellation](https://tw.rpi.edu/person/hyejin-park).
+
+Before joining RPI, I worked on knowledge retrieval, recommendation systems,
+and applied AI research in South Korea.
+
+::: {.hero-actions}
+
+[Research](research.html){.button .button-primary}
+
+[Publications](publications.html){.button .button-secondary}
+
+[CV](files/Hyejin_Park_CV.pdf){.button .button-secondary target="_blank"}
+
+:::
+
+::: {.quick-links}
+
+[Google Scholar](https://scholar.google.com/citations?user=kaD4NRoAAAAJ&hl=en)
+·
+[GitHub](https://github.com/HBD-NGC1316)
+·
+[LinkedIn](https://www.linkedin.com/in/hyejin-park-6ab866176/)
+·
+[Email](mailto:parkh12@rpi.edu)
+
+:::
+
+::::
+
+## Research Overview
+
+<div class="section-intro">
+My work spans three connected directions: grounded multimodal reasoning,
+trustworthy language generation, and structured knowledge.
+</div>
+
+::: {.card-grid}
+
+::: {.topic-card .topic-card-current}
+<p class="card-label">CURRENT Ph.D. RESEARCH</p>
+
+### Grounded Multimodal Reasoning
+
+How can AI systems form and refine concepts from visual, linguistic, and
+interactive evidence?
+
+[Explore current research →](research.html#grounded-multimodal-reasoning)
+:::
+
+::: {.topic-card}
+<p class="card-label">COLLABORATIVE RESEARCH</p>
+
+### Trustworthy Language Generation
+
+Reliable and publicly verifiable methods for identifying AI-generated language.
+
+[View publications →](publications.html#trustworthy-language-generation)
+:::
+
+::: {.topic-card}
+<p class="card-label">FOUNDATIONAL WORK</p>
+
+### Structured Knowledge and Retrieval
+
+Learning from complex relationships and multiple representations for retrieval
+and recommendation.
+
+[View publications →](publications.html#selected-lead-author-work)
+:::
+
+:::
+
+## Selected Publications
+
+<div class="section-heading-row">
+<div>
+<p class="section-intro">Recent conference highlights and selected work I have led.</p>
+</div>
+<div>
+<a class="text-link" href="publications.html">View all publications →</a>
+</div>
+</div>
+
+::: {.publication-grid}
+
+::: {.publication-card .publication-highlight}
+<p class="pub-venue">ACL 2026 · MAIN CONFERENCE</p>
+
+### A Linguistics-Aware LLM Watermarking via Syntactic Predictability
+
+Shinwoo Park, **Hyejin Park**, Hyeseon An, Yo-Sub Han
+
+<p class="pub-note">Collaborative research in publicly verifiable and linguistically grounded LLM watermarking.</p>
+
+[Google Scholar](https://scholar.google.com/citations?user=kaD4NRoAAAAJ&hl=en){.pub-link}
+:::
+
+::: {.publication-card .publication-highlight}
+<p class="pub-venue">AAAI 2026 · ORAL PRESENTATION</p>
+
+### WaterMod: Modular Token-Rank Partitioning for Probability-Balanced LLM Watermarking
+
+Shinwoo Park, **Hyejin Park**, Hyeseon Ahn, Yo-Sub Han
+
+<p class="pub-note">Probability-aware watermarking for robust detection while preserving generation quality.</p>
+
+[Google Scholar](https://scholar.google.com/citations?user=kaD4NRoAAAAJ&hl=en){.pub-link}
+:::
+
+::: {.publication-card}
+<p class="pub-venue">JCSE 2024 · CO-FIRST AUTHOR</p>
+
+### KHG-Aclair: Knowledge Hypergraph-Based Attention with Contrastive Learning for Recommendations
+
+**Hyejin Park**, Taeyoon Lee, Kyungwon Kim
+
+<p class="pub-note">Knowledge hypergraphs and contrastive learning for complex recommendation relationships.</p>
+
+[Code](https://github.com/HBD-NGC1316/KHG-Aclair){.pub-link}
+:::
+
+::: {.publication-card}
+<p class="pub-venue">JCSE 2024 · FIRST AUTHOR</p>
+
+### TRIO: An Entity Retrieval Method Using Entity Embedding and Topic Modeling
+
+**Hyejin Park**, Daecheol Woo, Shinwoo Park, Kyungwon Kim
+
+<p class="pub-note">A multi-perspective entity retrieval method combining term, semantic, and topic evidence.</p>
+
+[Google Scholar](https://scholar.google.com/citations?user=kaD4NRoAAAAJ&hl=en){.pub-link}
+:::
+
+:::
+
+## Recent Updates
+
+:::: {.updates-list}
+
+::: {.update-row}
+<div class="update-date">Jul 2026</div>
+<div class="update-text">Passed the Research Qualifying Examination at RPI.</div>
+:::
+
+::: {.update-row}
+<div class="update-date">Jul 2026</div>
+<div class="update-text">Served as a student volunteer at ACL 2026 in San Diego.</div>
+:::
+
+::: {.update-row}
+<div class="update-date">May 2026</div>
+<div class="update-text">Our linguistics-aware LLM watermarking paper was accepted to ACL 2026.</div>
+:::
+
+::: {.update-row}
+<div class="update-date">Jan 2026</div>
+<div class="update-text">Presented WaterMod as an oral paper at AAAI 2026.</div>
+:::
+
+::: {.update-row}
+<div class="update-date">Nov 2025</div>
+<div class="update-text">Gave a seminar talk on affordance perception and representation learning at RPI.</div>
+:::
+
+::::

@@ -1,0 +1,67 @@
+---
+pagetitle: "Research | Hyejin Park"
+title: "Research"
+description: "Research directions of Hyejin Park."
+---
+
+<p class="page-lead">
+I study how structure in the world, language, and knowledge can help
+AI systems reason more reliably.
+</p>
+
+## Grounded Multimodal Reasoning
+
+<p class="card-label">
+CURRENT Ph.D. RESEARCH · ONGOING
+</p>
+
+How can an AI system understand what an object may enable in a new
+situation, rather than simply recalling its conventional category
+or familiar function?
+
+My current research explores how intelligent systems form and refine
+grounded concepts from multimodal evidence and human interaction.
+I am particularly interested in **object–action understanding**:
+how AI systems interpret plausible interactions in complex and
+unfamiliar environments.
+
+This work investigates broader questions about how perception,
+language, and interaction contribute to concept formation and
+generalization.
+
+The research is conducted within **ARCLIGHT**, part of DARPA's
+Environment-driven Conceptual Learning program, through a collaboration
+between Boston Fusion and Rensselaer Polytechnic Institute.
+
+Because this work is ongoing, this page focuses on its motivating
+questions and broader scientific context rather than unpublished
+implementation details.
+
+---
+
+## Trustworthy Language Generation
+
+Alongside my primary Ph.D. research, I collaborate on methods for
+identifying AI-generated language while balancing verifiability,
+robustness, and generation quality.
+
+This research includes linguistically informed and probability-aware
+approaches to LLM watermarking, with an emphasis on reliable detection
+and broader public verifiability.
+
+Selected outcomes include papers accepted to ACL 2026 and AAAI 2026.
+
+[View related publications →](publications.html#trustworthy-language-generation)
+
+---
+
+## Structured Knowledge and Retrieval
+
+My earlier research examined how structured knowledge and multiple
+representations can improve information retrieval and recommendation.
+
+This work includes knowledge hypergraphs for recommendation,
+contrastive representation learning, and entity retrieval methods
+that combine term matching, semantic similarity, and topic evidence.
+
+[View selected lead-author work →](publications.html#selected-lead-author-work)

@@ -1,18 +1,62 @@
 project:
   type: website
   output-dir: docs
+  resources:
+    - files/**
 
 website:
   title: "Hyejin Park"
+  site-url: "https://hbd-ngc1316.github.io"
+  description: "Personal website of Hyejin Park, a Ph.D. student in Computer Science at Rensselaer Polytechnic Institute."
+  open-graph: true
+  back-to-top-navigation: true
+
   navbar:
+    pinned: true
     left:
       - href: index.qmd
         text: Home
+      - href: research.qmd
+        text: Research
+      - href: publications.qmd
+        text: Publications
+    right:
+      - text: CV
+        href: files/Hyejin_Park_CV.pdf
+        target: _blank
+    tools:
+      - icon: mortarboard
+        href: https://scholar.google.com/citations?user=kaD4NRoAAAAJ&hl=en
+        text: Google Scholar
+      - icon: github
+        href: https://github.com/HBD-NGC1316
+        text: GitHub
+      - icon: linkedin
+        href: https://www.linkedin.com/in/hyejin-park-6ab866176/
+        text: LinkedIn
+      - icon: envelope
+        href: mailto:parkh12@rpi.edu
+        text: Email
 
   page-footer:
-    center: "© 2026 Hyejin Park"
+    left: "© 2026 Hyejin Park"
+    right:
+      - text: "RPI"
+        href: https://www.rpi.edu/
+      - text: "TWC"
+        href: https://tw.rpi.edu/person/hyejin-park
+      - text: "LACAI"
+        href: https://lacailab.cogsci.rpi.edu/people/students
 
 format:
   html:
-    theme: cosmo
-    toc: false
+    theme: litera
+    css: styles.css
+    toc: true
+    toc-location: right
+    toc-title: "Explore"
+    toc-depth: 2
+    smooth-scroll: true
+    link-external-newwindow: true
+    anchor-sections: true
+    title-block-style: none

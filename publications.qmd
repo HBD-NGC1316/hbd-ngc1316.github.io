@@ -1,0 +1,79 @@
+---
+pagetitle: "Publications | Hyejin Park"
+title: "Publications"
+description: "Selected publications by Hyejin Park."
+---
+
+
+<p class="page-lead">
+Selected publications across trustworthy language generation, structured
+knowledge, retrieval, and recommendation.
+</p>
+
+<div class="publication-actions">
+<a class="button button-primary" href="https://scholar.google.com/citations?user=kaD4NRoAAAAJ&hl=en">Google Scholar</a>
+<a class="button button-secondary" href="files/Hyejin_Park_CV.pdf" target="_blank">Full CV</a>
+</div>
+
+## Trustworthy Language Generation
+
+::: {.publication-card .publication-wide .publication-highlight}
+<p class="pub-venue">ACL 2026 · MAIN CONFERENCE</p>
+
+### A Linguistics-Aware LLM Watermarking via Syntactic Predictability
+
+Shinwoo Park, **Hyejin Park**, Hyeseon An, Yo-Sub Han
+
+A linguistically grounded approach to adaptive and publicly verifiable LLM
+watermarking.
+
+[Google Scholar](https://scholar.google.com/citations?user=kaD4NRoAAAAJ&hl=en){.pub-link}
+:::
+
+::: {.publication-card .publication-wide .publication-highlight}
+<p class="pub-venue">AAAI 2026 · ORAL PRESENTATION</p>
+
+### WaterMod: Modular Token-Rank Partitioning for Probability-Balanced LLM Watermarking
+
+Shinwoo Park, **Hyejin Park**, Hyeseon Ahn, Yo-Sub Han
+
+A probability-aware modular framework for balancing watermark detectability and
+generation quality.
+
+[Google Scholar](https://scholar.google.com/citations?user=kaD4NRoAAAAJ&hl=en){.pub-link}
+:::
+
+## Selected Lead-Author Work
+
+::: {.publication-card .publication-wide}
+<p class="pub-venue">JCSE 2024 · CO-FIRST AUTHOR</p>
+
+### KHG-Aclair: Knowledge Hypergraph-Based Attention with Contrastive Learning for Recommendations
+
+**Hyejin Park**, Taeyoon Lee, Kyungwon Kim
+
+A recommendation framework that models higher-order relationships through
+knowledge hypergraphs and improves representations through contrastive learning.
+
+[Code](https://github.com/HBD-NGC1316/KHG-Aclair){.pub-link}
+[Google Scholar](https://scholar.google.com/citations?user=kaD4NRoAAAAJ&hl=en){.pub-link}
+:::
+
+::: {.publication-card .publication-wide}
+<p class="pub-venue">JCSE 2024 · FIRST AUTHOR</p>
+
+### TRIO: An Entity Retrieval Method Using Entity Embedding and Topic Modeling
+
+**Hyejin Park**, Daecheol Woo, Shinwoo Park, Kyungwon Kim
+
+An entity retrieval method that combines term matching, semantic similarity,
+and topic relatedness to capture query intent from multiple perspectives.
+
+[Google Scholar](https://scholar.google.com/citations?user=kaD4NRoAAAAJ&hl=en){.pub-link}
+:::
+
+## Earlier Publications
+
+Additional publications and conference papers are available on my
+[Google Scholar profile](https://scholar.google.com/citations?user=kaD4NRoAAAAJ&hl=en)
+and in my [CV](files/Hyejin_Park_CV.pdf).

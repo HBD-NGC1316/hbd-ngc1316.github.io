@@ -141,7 +141,7 @@ Shinwoo Park, **Hyejin Park**, Hyeseon An, Yo-Sub Han
 
 <p class="pub-note">Collaborative research in publicly verifiable and linguistically grounded LLM watermarking.</p>
 
-[Google Scholar](https://scholar.google.com/citations?user=kaD4NRoAAAAJ&hl=en){.pub-link}
+[Paper](https://aclanthology.org/2026.acl-long.2115/){.pub-link}
 :::
 
 ::: {.publication-card .publication-highlight}
@@ -153,7 +153,7 @@ Shinwoo Park, **Hyejin Park**, Hyeseon Ahn, Yo-Sub Han
 
 <p class="pub-note">Probability-aware watermarking for robust detection while preserving generation quality.</p>
 
-[Google Scholar](https://scholar.google.com/citations?user=kaD4NRoAAAAJ&hl=en){.pub-link}
+[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/40546){.pub-link}
 :::
 
 ::: {.publication-card}
@@ -164,7 +164,7 @@ Shinwoo Park, **Hyejin Park**, Hyeseon Ahn, Yo-Sub Han
 **Hyejin Park**, Taeyoon Lee, Kyungwon Kim
 
 <p class="pub-note">Knowledge hypergraphs and contrastive learning for complex recommendation relationships.</p>
-
+[Paper](https://jcse.kiise.org/files/V18N3-04.pdf){.pub-link}
 [Code](https://github.com/HBD-NGC1316/KHG-Aclair){.pub-link}
 :::
 
@@ -177,7 +177,7 @@ Shinwoo Park, **Hyejin Park**, Hyeseon Ahn, Yo-Sub Han
 
 <p class="pub-note">A multi-perspective entity retrieval method combining term, semantic, and topic evidence.</p>
 
-[Google Scholar](https://scholar.google.com/citations?user=kaD4NRoAAAAJ&hl=en){.pub-link}
+[Paper](https://jcse.kiise.org/files/V18N1-05.pdf){.pub-link}
 :::
 
 :::

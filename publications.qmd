@@ -27,7 +27,7 @@ Shinwoo Park, **Hyejin Park**, Hyeseon An, Yo-Sub Han
 A linguistically grounded approach to adaptive and publicly verifiable LLM
 watermarking.
 
-[Google Scholar](https://scholar.google.com/citations?user=kaD4NRoAAAAJ&hl=en){.pub-link}
+[Paper](https://aclanthology.org/2026.acl-long.2115/){.pub-link}
 :::
 
 ::: {.publication-card .publication-wide .publication-highlight}
@@ -40,7 +40,7 @@ Shinwoo Park, **Hyejin Park**, Hyeseon Ahn, Yo-Sub Han
 A probability-aware modular framework for balancing watermark detectability and
 generation quality.
 
-[Google Scholar](https://scholar.google.com/citations?user=kaD4NRoAAAAJ&hl=en){.pub-link}
+[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/40546){.pub-link}
 :::
 
 ## Selected Lead-Author Work
@@ -55,8 +55,8 @@ generation quality.
 A recommendation framework that models higher-order relationships through
 knowledge hypergraphs and improves representations through contrastive learning.
 
+[Paper](https://jcse.kiise.org/files/V18N3-04.pdf){.pub-link}
 [Code](https://github.com/HBD-NGC1316/KHG-Aclair){.pub-link}
-[Google Scholar](https://scholar.google.com/citations?user=kaD4NRoAAAAJ&hl=en){.pub-link}
 :::
 
 ::: {.publication-card .publication-wide}
@@ -69,7 +69,7 @@ knowledge hypergraphs and improves representations through contrastive learning.
 An entity retrieval method that combines term matching, semantic similarity,
 and topic relatedness to capture query intent from multiple perspectives.
 
-[Google Scholar](https://scholar.google.com/citations?user=kaD4NRoAAAAJ&hl=en){.pub-link}
+[Paper](https://jcse.kiise.org/files/V18N1-05.pdf){.pub-link}
 :::
 
 ## Earlier Publications

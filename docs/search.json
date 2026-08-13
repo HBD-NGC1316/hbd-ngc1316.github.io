@@ -11,7 +11,7 @@
     "href": "publications.html#trustworthy-language-generation",
     "title": "Publications",
     "section": "Trustworthy Language Generation",
-    "text": "Trustworthy Language Generation\n\n\nACL 2026 · MAIN CONFERENCE\n\n\nA Linguistics-Aware LLM Watermarking via Syntactic Predictability\nShinwoo Park, Hyejin Park, Hyeseon An, Yo-Sub Han\nA linguistically grounded approach to adaptive and publicly verifiable LLM watermarking.\nPaper\n\n\n\n\nAAAI 2026 · ORAL PRESENTATION\n\n\nWaterMod: Modular Token-Rank Partitioning for Probability-Balanced LLM Watermarking\nShinwoo Park, Hyejin Park, Hyeseon Ahn, Yo-Sub Han\nA probability-aware modular framework for balancing watermark detectability and generation quality.\nPaper"
+    "text": "Trustworthy Language Generation\n\n\narXiv · Under Review\n\n\nLinguistics-Aware Non-Distortionary LLM Watermarking\nShinwoo Park, Hyejin Park, Hyeseon An, Yo-Sub Han\nA linguistically adaptive, non-distortionary watermarking framework for multilingual LLMs, designed to support model-free and publicly verifiable detection while preserving generation quality.\nPaper\n\n\n\n\nACL 2026 · MAIN CONFERENCE\n\n\nA Linguistics-Aware LLM Watermarking via Syntactic Predictability\nShinwoo Park, Hyejin Park, Hyeseon An, Yo-Sub Han\nA linguistically grounded approach to adaptive and publicly verifiable LLM watermarking.\nPaper\n\n\n\n\nAAAI 2026 · ORAL PRESENTATION\n\n\nWaterMod: Modular Token-Rank Partitioning for Probability-Balanced LLM Watermarking\nShinwoo Park, Hyejin Park, Hyeseon Ahn, Yo-Sub Han\nA probability-aware modular framework for balancing watermark detectability and generation quality.\nPaper"
   },
   {
     "objectID": "publications.html#selected-lead-author-work",

@@ -18,6 +18,20 @@ knowledge, retrieval, and recommendation.
 ## Trustworthy Language Generation
 
 ::: {.publication-card .publication-wide .publication-highlight}
+<p class="pub-venue">arXiv · Under Review</p>
+
+### Linguistics-Aware Non-Distortionary LLM Watermarking
+
+Shinwoo Park, **Hyejin Park**, Hyeseon An, Yo-Sub Han
+
+A linguistically adaptive, non-distortionary watermarking framework for
+multilingual LLMs, designed to support model-free and publicly verifiable
+detection while preserving generation quality.
+
+[Paper](https://arxiv.org/abs/2606.00613){.pub-link}
+:::
+
+::: {.publication-card .publication-wide .publication-highlight}
 <p class="pub-venue">ACL 2026 · MAIN CONFERENCE</p>
 
 ### A Linguistics-Aware LLM Watermarking via Syntactic Predictability

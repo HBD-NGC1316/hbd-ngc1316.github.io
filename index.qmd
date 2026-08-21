@@ -188,7 +188,7 @@ Shinwoo Park, **Hyejin Park**, Hyeseon Ahn, Yo-Sub Han
 
 ::: {.update-row}
 <div class="update-date">Aug 2026</div>
-<div class="update-text">Our linguistics-Aware Non-Distortionary LLM Watermarking was accepted to EMNLP 2026 Main Conference.</div>
+<div class="update-text">Our linguistics-Aware Non-Distortionary LLM Watermarking was accepted to EMNLP 2026.</div>
 :::
 
 ::: {.update-row}

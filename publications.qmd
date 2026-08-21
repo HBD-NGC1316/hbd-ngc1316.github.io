@@ -18,7 +18,7 @@ knowledge, retrieval, and recommendation.
 ## Trustworthy Language Generation
 
 ::: {.publication-card .publication-wide .publication-highlight}
-<p class="pub-venue">arXiv · Under Review</p>
+<p class="pub-venue">EMNLP 2026 · MAIN CONFERENCE</p>
 
 ### Linguistics-Aware Non-Distortionary LLM Watermarking
 

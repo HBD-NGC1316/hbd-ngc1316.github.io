@@ -28,7 +28,7 @@ A linguistically adaptive, non-distortionary watermarking framework for
 multilingual LLMs, designed to support model-free and publicly verifiable
 detection while preserving generation quality.
 
-[Paper](https://arxiv.org/abs/2606.00613){.pub-link}
+[Paper](https://aclanthology.org/2026.emnlp-main.1203/){.pub-link}
 :::
 
 ::: {.publication-card .publication-wide .publication-highlight}

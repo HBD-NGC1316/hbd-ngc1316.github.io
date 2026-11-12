@@ -46,7 +46,7 @@
     "href": "research.html#trustworthy-language-generation",
     "title": "Research",
     "section": "Trustworthy Language Generation",
-    "text": "Trustworthy Language Generation\nAlongside my primary Ph.D. research, I collaborate on methods for identifying AI-generated language while balancing verifiability, robustness, and generation quality.\nThis research includes linguistically informed and probability-aware approaches to LLM watermarking, with an emphasis on reliable detection and broader public verifiability.\nSelected outcomes include papers accepted to ACL 2026 and AAAI 2026.\nView related publications →"
+    "text": "Trustworthy Language Generation\nAlongside my primary Ph.D. research, I collaborate on methods for identifying AI-generated language while balancing verifiability, robustness, and generation quality.\nThis research includes linguistically informed and probability-aware approaches to LLM watermarking, with an emphasis on reliable detection and broader public verifiability.\nSelected outcomes include papers published at EMNLP 2026, ACL 2026, and AAAI 2026.\nView related publications →"
   },
   {
     "objectID": "research.html#structured-knowledge-and-retrieval",
@@ -81,6 +81,6 @@
     "href": "index.html#recent-updates",
     "title": "Hyejin Park",
     "section": "Recent Updates",
-    "text": "Recent Updates\n\n\n\nAug 2026\n\n\nOur linguistics-Aware Non-Distortionary LLM Watermarking was accepted to EMNLP 2026.\n\n\n\n\nJul 2026\n\n\nPassed the Research Qualifying Examination at RPI.\n\n\n\n\nJul 2026\n\n\nServed as a student volunteer at ACL 2026 in San Diego.\n\n\n\n\nMay 2026\n\n\nOur linguistics-aware LLM watermarking paper was accepted to ACL 2026.\n\n\n\n\nJan 2026\n\n\nPresented WaterMod as an oral paper at AAAI 2026.\n\n\n\n\nNov 2025\n\n\nGave a seminar talk on affordance perception and representation learning at RPI."
+    "text": "Recent Updates\n\n\n\nNov 2026\n\n\nAttended WE26, the Society of Women Engineers Annual Conference, in Boston, with support from RPI’s Department of Computer Science.\n\n\n\n\nOct 2026\n\n\nOur paper, Linguistics-Aware Non-Distortionary LLM Watermarking, was published at EMNLP 2026 (Main Conference).\n\n\n\n\nJul 2026\n\n\nPassed the Research Qualifying Examination at RPI.\n\n\n\n\nJul 2026\n\n\nServed as a student volunteer at ACL 2026 in San Diego.\n\n\n\n\nMay 2026\n\n\nOur linguistics-aware LLM watermarking paper was accepted to ACL 2026.\n\n\n\n\nJan 2026\n\n\nPresented WaterMod as an oral paper at AAAI 2026."
   }
 ]

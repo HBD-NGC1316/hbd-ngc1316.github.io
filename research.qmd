@@ -49,7 +49,7 @@ This research includes linguistically informed and probability-aware
 approaches to LLM watermarking, with an emphasis on reliable detection
 and broader public verifiability.
 
-Selected outcomes include papers accepted to ACL 2026 and AAAI 2026.
+Selected outcomes include papers published at EMNLP 2026, ACL 2026, and AAAI 2026.
 
 [View related publications →](publications.html#trustworthy-language-generation)
 
